@@ -1,0 +1,24 @@
+{
+  "status": "SNAPSHOT_SAVED",
+  "player": "Ted8610",
+  "profile": "Raspberry",
+  "snapshotStartedAtUTC": "2026-10-15T13:51:31Z",
+  "snapshotFinishedAtUTC": "2026-10-15T13:51:49Z",
+  "profileTopLevelFieldCount": 32,
+  "inventoryManifestEntries": 28,
+  "uniqueInventoryIdsFound": 28,
+  "inventoryFetchSuccesses": 28,
+  "inventoryFetchFailuresOrMissingIds": 0,
+  "snapshotComplete": true,
+  "snapshotBytes": 910862,
+  "fieldIndexEntries": 40599,
+  "fieldIndexBytes": 7358331,
+  "files": [
+    "Raspberry_Complete_Profile_Snapshot.json",
+    "Raspberry_Complete_Profile_Field_Index.json",
+    "Raspberry_Complete_Profile_Snapshot.zip"
+  ],
+  "outputDirectory": "/storage/emulated/0/Android/data/ru.iiec.pydroid3/files",
+  "failedInventoryNames": [],
+  "nextStep": "Attach Raspberry_Complete_Profile_Snapshot.zip to this chat. The full data is saved to files; this terminal report deliberately stays short."
+}
